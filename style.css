@@ -1,0 +1,39 @@
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main {
+    max-width: 1360px;
+    padding-top: 50px;
+    color: black;
+    font-size: 18px;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text {
+    font-weight: bold;
+    font-size: 24px;
+    width: 45%;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
