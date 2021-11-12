@@ -21,7 +21,6 @@ a {
 .text {
     font-weight: bold;
     font-size: 24px;
-    width: 45%;
 }
 
 li {
@@ -37,3 +36,8 @@ a:hover {
     color: blue;
 }
 
+.alone {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+}
